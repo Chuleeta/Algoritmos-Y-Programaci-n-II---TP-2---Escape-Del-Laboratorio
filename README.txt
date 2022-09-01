@@ -1,0 +1,1 @@
+Este TP consiste en un juego escrito en C en el cual el jugador debe responder unas preguntas las cuales determinan con que personaje jugara. Luego se crea un laberinto con obstáculos y herramientas las cuales el jugador debe usar para pasar de nivel y así escapar del laboratorio. Para más información leer el PDF en Consigna/2020_2C_TP2.pdf .
